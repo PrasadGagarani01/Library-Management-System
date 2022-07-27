@@ -1,6 +1,6 @@
 # Library-Management-System-Java
 
-:Books:A library management system implement using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
+Description: A library management system implemented using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
 
 **System Users/Actors**
 - Librarian
