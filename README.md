@@ -1,6 +1,6 @@
 # Library-Management-System-Java
 
-:books:A library management system implement using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
+:Books:A library management system implement using concepts of OOP in JAVA, GUI desgined using Java Swing and MS SQL as database.
 
 **System Users/Actors**
 - Librarian
@@ -48,7 +48,7 @@
    - request a loan
    
    
-  **Run this project**
+  **Config setting for Running this project in your local machine**
   
   -For running this project , you must have installed JDK and NetBeans.
   
@@ -64,12 +64,6 @@
   
   -Select **LoginUI.java** and click on run file.
   
-  
-  
-  
-  For getting in touch or any help follow [Minahil Imtiaz](https://www.linkedin.com/in/minahilimtiaz/)
-  
-  If this project helped you, then follow me on [@minaahilimtiaz](https://github.com/minaahilimtiaz/) and 🌟 [this repository](https://github.com/minaahilimtiaz/Library-Management-System-Java/)
   
   
  
